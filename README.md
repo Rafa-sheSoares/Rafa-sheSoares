@@ -23,7 +23,11 @@
 
 ---
 
-### A little more about me...
+### 💻 A little more about me...
+
+<table>
+  <tr>
+    <td width="62%" valign="top">
 
 ```javascript
 const rafaela = {
@@ -57,9 +61,16 @@ const rafaela = {
 };
 ```
 
+   </td>
+   <td width="38%" align="center" valign="middle">
+     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Coding Illustration" />
+   </td>
+  </tr>
+</table>
+
 ---
 
-### My Stack
+### 🛠️ My Stack
 
 Tools and technologies that I use on daily development, architectures, and projects:
 
@@ -120,7 +131,7 @@ Tools and technologies that I use on daily development, architectures, and proje
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <table border="0">
@@ -137,7 +148,7 @@ Tools and technologies that I use on daily development, architectures, and proje
 
 ---
 
-### Highlighted Projects
+### 🚀 Highlighted Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
