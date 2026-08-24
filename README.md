@@ -23,33 +23,43 @@
 
 ---
 
-### 💻 A little more about me...
+### A little more about me...
 
 ```javascript
 const rafaela = {
-    pronouns: "she/her",
-    code: ["Java", "C#", "JavaScript", "TypeScript", "C++", "SQL"],
-    architecture: ["Microservices", "REST APIs", "C4 Model", "Observer", "Pub/Sub", "MVVM"],
-    backend: {
-        frameworks: ["Spring Boot", ".NET", "NestJS"],
-        persistence: ["Spring Data JPA", "Hibernate", "Flyway", "Entity Framework"],
-        databases: ["PostgreSQL", "MySQL", "MongoDB"]
-    },
-    toolsAndDocs: ["Swagger / OpenAPI", "Postman", "Git / GitLab / GitHub", "Docker", "Trello"],
-    supportAndOps: {
-        project: "ServidorOn (Universidade)",
-        focus: ["Technical Support & Troubleshooting", "Workflows & Agile Routines (Scrum / DoR & DoD)", "Technical Documentation & Wikis"]
-    },
-    computerScience: {
-        structures: ["Binary Search Tree (BST)", "Balanced AVL Trees", "Custom Hash Tables"],
-        algorithms: ["KMP String Matching", "Dynamic Programming", "Asymptotic Analysis (Big-O)"]
-    }
+  pronouns: "she/her",
+  code: ["Java", "C#", "JavaScript", "TypeScript", "C++", "SQL"],
+  architecture: [
+    "Microservices", "REST APIs", "C4 Model",
+    "Observer", "Pub/Sub", "MVVM"
+  ],
+  backend: {
+    frameworks: ["Spring Boot", ".NET", "NestJS"],
+    persistence: ["Spring Data JPA", "Hibernate", "Flyway", "EF Core"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB"]
+  },
+  toolsAndDocs: [
+    "Swagger / OpenAPI", "Postman",
+    "Git / GitLab / GitHub", "Docker", "Trello"
+  ],
+  supportAndOps: {
+    project: "ServidorOn (Universidade)",
+    focus: [
+      "Technical Support & Troubleshooting",
+      "Agile Workflows (Scrum / DoR & DoD)",
+      "Technical Documentation & Wikis"
+    ]
+  },
+  computerScience: {
+    structures: ["BST", "Balanced AVL Trees", "Custom Hash Tables"],
+    algorithms: ["KMP String Matching", "Dynamic Programming", "Big-O Benchmark"]
+  }
 };
 ```
 
 ---
 
-### 🛠️ My Stack
+### My Stack
 
 Tools and technologies that I use on daily development, architectures, and projects:
 
@@ -110,7 +120,7 @@ Tools and technologies that I use on daily development, architectures, and proje
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <table border="0">
@@ -127,7 +137,7 @@ Tools and technologies that I use on daily development, architectures, and proje
 
 ---
 
-### 🚀 Highlighted Projects
+### Highlighted Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
