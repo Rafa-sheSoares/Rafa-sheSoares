@@ -23,47 +23,22 @@
 
 ---
 
-### 💻 A little more about me...
+### 👩🏽‍💻 Sobre Mim / About Me
 
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td width="65%" valign="top">
 
-```javascript
-const rafaela = {
-  pronouns: "she/her",
-  code: ["Java", "C#", "JavaScript", "TypeScript", "C++", "SQL"],
-  architecture: [
-    "Microservices", "REST APIs", "C4 Model",
-    "Observer", "Pub/Sub", "MVVM"
-  ],
-  backend: {
-    frameworks: ["Spring Boot", ".NET", "NestJS"],
-    persistence: ["Spring Data JPA", "Hibernate", "Flyway", "EF Core"],
-    databases: ["PostgreSQL", "MySQL", "MongoDB"]
-  },
-  toolsAndDocs: [
-    "Swagger / OpenAPI", "Postman",
-    "Git / GitLab / GitHub", "Docker", "Trello"
-  ],
-  supportAndOps: {
-    project: "ServidorOn (Universidade)",
-    focus: [
-      "Technical Support & Troubleshooting",
-      "Agile Workflows (Scrum / DoR & DoD)",
-      "Technical Documentation & Wikis"
-    ]
-  },
-  computerScience: {
-    structures: ["BST", "Balanced AVL Trees", "Custom Hash Tables"],
-    algorithms: ["KMP String Matching", "Dynamic Programming", "Big-O Benchmark"]
-  }
-};
-```
+Engenheira de Software em formação, com foco em desenvolvimento **Backend**, **Arquitetura de Sistemas** e **Engenharia de Suporte / Sustentação**.
+
+* 🚀 **Desenvolvimento & Arquitetura**: Construção de APIs RESTful e microsserviços com **Java (Spring Boot)**, **C# (.NET)** e **NestJS**, aplicando padrões arquiteturais consolidados (*Observer*, *Pub/Sub*, *MVVM*) e modelagem estruturada com o **Modelo C4**.
+* 🗄️ **Bancos de Dados & Persistência**: Domínio em bancos relacionais (**PostgreSQL**, **MySQL** com versionamento via **Flyway**) e NoSQL (**MongoDB**).
+* 🛠️ **Suporte Técnico & Gestão Operacional (*ServidorOn*)**: Suporte técnico especializado, resolução de incidentes (troubleshooting), documentação técnica em wikis e gestão de fluxos de trabalho sob metodologia ágil (**Scrum**, **Trello**, critérios de **DoR** e **DoD**).
+* ⚡ **Ciência da Computação & Eficiência**: Implementação e benchmarking de estruturas avançadas (Árvores **BST** e **AVL**, **Hash Tables** customizadas), algoritmos de busca (**KMP**) e **Programação Dinâmica**, sempre com análise assintótica de complexidade (Big-O).
 
    </td>
-   <td width="38%" align="center" valign="middle">
-     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Coding Illustration" />
+   <td width="35%" align="center" valign="middle">
+     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding Illustration" />
    </td>
   </tr>
 </table>
@@ -134,16 +109,8 @@ Tools and technologies that I use on daily development, architectures, and proje
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Rafa-sheSoares&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rafaela's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-sheSoares&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Rafa-sheSoares&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rafa-sheSoares&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 ---
