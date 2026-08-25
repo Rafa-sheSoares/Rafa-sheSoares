@@ -119,11 +119,11 @@ Tools and technologies that I use on daily development, architectures, and proje
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🔹 **[ForumHub](https://github.com/Rafa-sheSoares/ForumHub)** | RESTful Forum API with topic lifecycle, validations, and database migrations. | `Java` `Spring Boot` `MySQL` `Flyway` |
-| 🔹 **[literalura](https://github.com/Rafa-sheSoares/literalura)** | Book cataloging and query system consuming Gutendex external REST API. | `Java` `Spring Boot` `REST Client` |
-| 🔹 **[IntArea](https://github.com/Rafa-sheSoares/IntArea)** | Interactive web solution inspired by GeoGebra for computing area between functions. | `JavaScript` `Canvas / Math` |
-| 🔹 **[cadastro-produtos-java](https://github.com/Rafa-sheSoares/cadastro-produtos-java)** | Desktop system implementing MVC pattern and Java Swing GUI. | `Java` `Swing (GUI)` `POO` |
-| 🔹 **[SpaceInvadersGame](https://github.com/Rafa-sheSoares/SpaceInvadersGame)** | Arcade game built with core OOP concepts and native C++ game loop logic. | `C++` `OOP` `Game Dev` |
+| 🔹 **[ForumHub](https://github.com/Rafa-sheSoares/ForumHub)** | RESTful Forum API with JWT security, topic lifecycle, Flyway migrations and Swagger UI. | `Java` `Spring Boot` `JWT` `MySQL` `Flyway` |
+| 🔹 **[literalura](https://github.com/Rafa-sheSoares/literalura)** | Book cataloging and statistical analysis consuming Gutendex REST API with PostgreSQL persistence. | `Java` `Spring Boot` `PostgreSQL` `REST API` |
+| 🔹 **[IntArea](https://github.com/Rafa-sheSoares/IntArea)** | Interactive calculus web app for numerical integration and function area plotting. | `React` `Vite` `TailwindCSS` `Recharts` |
+| 🔹 **[cadastro-produtos-java](https://github.com/Rafa-sheSoares/cadastro-produtos-java)** | Desktop product catalog system built with Java Swing GUI and MVC architecture. | `Java` `Swing (GUI)` `OOP` `MVC` |
+| 🔹 **[SpaceInvadersGame](https://github.com/Rafa-sheSoares/SpaceInvadersGame)** | Classic arcade game built with C#, Uno Platform (.NET 9) and MVVM architecture. | `C#` `.NET 9` `Uno Platform` `MVVM` |
 
 ---
 
