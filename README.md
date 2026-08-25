@@ -34,7 +34,7 @@ Engenheira de Software em formação, com foco em desenvolvimento **Backend**, *
 * 🚀 **Desenvolvimento & Arquitetura**: Construção de APIs RESTful e microsserviços com **Java (Spring Boot)**, **C# (.NET)** e **NestJS**, aplicando padrões arquiteturais consolidados (*Observer*, *Pub/Sub*, *MVVM*) e modelagem estruturada com o **Modelo C4**.
 * 🗄️ **Bancos de Dados & Persistência**: Domínio em bancos relacionais (**PostgreSQL**, **MySQL** com versionamento via **Flyway**) e NoSQL (**MongoDB**).
 * 🛠️ **Suporte Técnico & Gestão Operacional (*ServidorOn*)**: Suporte técnico especializado, resolução de incidentes (troubleshooting), documentação técnica em wikis e gestão de fluxos de trabalho sob metodologia ágil (**Scrum**, **Trello**, critérios de **DoR** e **DoD**).
-* ⚡ **Ciência da Computação & Eficiência**: Implementação e benchmarking de estruturas avançadas (Árvores **BST** e **AVL**, **Hash Tables** customizadas), algoritmos de busca (**KMP**) e **Programação Dinâmica**, sempre com análise assintótica de complexidade (Big-O).
+* 🎓 **Formação & Fundamentos de Computação**: Sólida base teórica desenvolvida na graduação em Ciência da Computação, com domínio de estruturas de dados avançadas, algoritmos clássicos e análise assintótica de complexidade (Big-O) para otimização de performance.
 
    </td>
    <td width="35%" align="center" valign="middle">
