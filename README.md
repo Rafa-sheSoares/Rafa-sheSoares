@@ -1,11 +1,12 @@
 <div align="center">
 
-  <img src="assets/banner.jpg" width="100%" alt="Banner Rafaela Soares" />
+  <img width="100%" alt="image" src="https://github.com/user-attachments/assets/80ab9193-78a7-4282-b61c-7b2271e19716" />
+
 
   <br><br>
 
   <p align="center">
-    <b>Engenheira de Software • Backend & Arquitetura • Ciência da Computação</b>
+    <b>Engenheira de Software • Backend & Arquitetura • Suporte N1/N3</b>
   </p>
 
   <p align="center">
@@ -24,22 +25,22 @@
 
 ---
 
-### 🌸 about me
+### 🌼 about me
 
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="assets/avatar.jpg" width="220" alt="Rafaela Soares Avatar" style="border-radius: 12px;" />
-    </td>
+      <img src="https://github.com/user-attachments/assets/4f0e2bb8-c3a7-48ba-836f-84c126621c89" width="220" alt="Rafaela Soares Avatar" style="border-radius: 12px;" />
+    </td>  
     <td width="70%" valign="top">
 
 Me chamo **Rafaela Soares**, sou Engenheira de Software em formação com foco em **Backend**, **Arquitetura de Sistemas** e **Engenharia de Suporte / Sustentação**.
 
-Gosto de transformar desafios e regras de negócio complexas em arquiteturas robustas, APIs resilientes e código limpo e escalável.
+Gosto de transformar desafios e regras de negócio complexas em arquiteturas robustas, APIs resilientes e código limpo e escalável. Aplico estruturas de dados eficientes, análise de complexidade e boas práticas de arquitetura para construir sistemas de alta performance. Uno a modelagem consistente de bancos relacionais e NoSQL ao desenvolvimento de APIs otimizadas, focando sempre em escalabilidade, manutenibilidade e baixo tempo de resposta.
 
-Minha jornada combina sólida base teórica em **Ciência da Computação** (estruturas de dados, algoritmos clássicos e análise de complexidade Big-O) com vivência prática no desenvolvimento de microsserviços, modelagem de bancos relacionais e NoSQL, integração de sistemas e suporte a incidentes críticos sob metodologias ágeis.
+Acredito que a engenharia de software eficiente nasce do equilíbrio entre código limpo, arquiteturas resilientes e um domínio profundo das regras de negócio para entregar soluções sustentáveis a longo prazo.
 
-> 💡 *Acredito que programar não é apenas escrever código. É compreender a fundo as regras de negócio, projetar sistemas eficientes e transformar desafios em soluções sustentáveis de alto impacto.*
+> 💡 *Busco aprimoramento constante, unindo rigor técnico, curiosidade e colaboração para criar tecnologias acessíveis e relevantes.*
 
    </td>
   </tr>
@@ -63,13 +64,14 @@ Minha jornada combina sólida base teórica em **Ciência da Computação** (est
   <tr>
     <td width="70%" valign="top">
 
-* 🎓 **Ciência da Computação (Bacharelado)**  
-  *Graduação em andamento • Foco em Engenharia de Software, Algoritmos & Estruturas de Dados*
+* 🎓 **Formação Acadêmica:**
+  * **Bacharelado em Engenharia de Software** — *Graduação em andamento*
+  * **Técnico em Manutenção e Suporte em Informática** — *Concluído*
 
-* 🛠️ **Formações & Especializações Técnicas**:
-  * **Java & Spring Boot**: Construção de APIs RESTful, Segurança com JWT e Migrations com Flyway
-  * **Arquitetura de Software**: Microsserviços, Padrões GoF (*Observer*, *Pub/Sub*, *MVVM*) e Modelo C4
-  * **Engenharia de Suporte & Sustentação**: Troubleshooting, análise de causa raiz, gestão ágil (*Scrum*, *DoR*, *DoD*)
+* 🚀 **Formações & Especializações Técnicas:**
+  * **Java & Spring Boot:** Construção de APIs RESTful, Segurança com JWT, Migrations com Flyway e Spring Data JPA
+  * **Arquitetura & Design de Software:** Microsserviços, Modelo C4, Padrões GoF (*Observer, Strategy*) e Padrões Arquiteturais (*MVVM, Pub/Sub*)
+  * **Engenharia de Suporte & Sustentação:** Troubleshooting, Análise de Causa Raiz, Gestão de Incidentes e Metodologias Ágeis (*Scrum, DoR, DoD*)
 
    </td>
    <td width="30%" align="center" valign="middle">
